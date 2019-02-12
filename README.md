@@ -1,5 +1,5 @@
-#Delegate Board
-##Spec
+# Delegate Board
+## Spec
 * JDK 1.8
 * Springboot
 * Maven
